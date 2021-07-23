@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>https://melissa-kun-li.github.io/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Jul 2021 14:19:00 +0000</lastBuildDate><atom:link href="https://melissa-kun-li.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I think about open source and mentorship</title>
+      <link>https://melissa-kun-li.github.io/posts/opensource_mentorship/</link>
+      <pubDate>Fri, 23 Jul 2021 14:19:00 +0000</pubDate>
+      
+      <guid>https://melissa-kun-li.github.io/posts/opensource_mentorship/</guid>
+      <description>My internship at Ceph centres around a project: replacing the python ssh library in cephadm. Cephadm, like ceph, is an open-source project, so all of its code can be viewed on Github: https://github.com/ceph/ceph. At this point, as someone who has only contributed code to open-source software (setuptools and now ceph), open source really feels like the norm to me now.
+I really like the collaborative and transparent nature of open source.</description>
+    </item>
+    
+    <item>
+      <title>Unstaging lines from a new/untracked file with git</title>
+      <link>https://melissa-kun-li.github.io/posts/git/</link>
+      <pubDate>Fri, 23 Jul 2021 00:53:00 +0000</pubDate>
+      
+      <guid>https://melissa-kun-li.github.io/posts/git/</guid>
+      <description>A few days ago, I was cleaning my git history for a PR I made at my internship. My commits were quite messy: many parts of the code I&amp;rsquo;d changed multiple times and the earlier commits no longer reflected the current state.
+I knew you could reorder commits, squash, amend commit messages, reset the head, etc. and whatever else you needed for a basic git workflow. Before this PR, though, I had no idea you could split a commit into smaller commits, and you could do this by resetting the head and unstaging / staging specific hunks or lines.</description>
+    </item>
+    
+    <item>
+      <title>Enter Outreachy</title>
+      <link>https://melissa-kun-li.github.io/posts/enter_outreachy/</link>
+      <pubDate>Wed, 02 Jun 2021 14:19:00 +0000</pubDate>
+      
+      <guid>https://melissa-kun-li.github.io/posts/enter_outreachy/</guid>
+      <description>Hello! Welcome to my Outreachy blog (and also my stream of consciousness blog). My name is Melissa, and I’m an Outreachy intern working on the Cephadm project at Ceph. As part of my 3 month internship, I’ll be blogging to share my experiences with Outreachy and Ceph. I’ll begin with an introduction on who I am and then talk more about Outreachy and what motivated me to apply. In another post I will go into more detail about the project I’m currently working on.</description>
+    </item>
+    
+  </channel>
+</rss>
